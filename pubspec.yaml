@@ -1,5 +1,5 @@
 name: todo_list_2
-description: A new Flutter project.
+description: An example of how to setup a flutter app architecture
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
